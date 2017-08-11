@@ -180,6 +180,7 @@ Fibromyalgia can cause CPP along with psychiatric complaints (anxiety, depressio
 - History and physical are critical for narrowing the diagnosis. History should help narrow down to a specific system, and ROS/physical exam can guide you towards a specific diagnosis. 
 - Treatment depends on the underlying cause
 
+
 ---
 
 ## References
