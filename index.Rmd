@@ -91,7 +91,7 @@ Presenting symptoms can include pain with voiding, urinary urgency and/or freque
 
 - Pain associated with hormonal changes may likely result from endometriosis or adenomyosis, while a nonhormonal pattern of pain may signal musculoskeletal causes, adhesions, IBS, or interstitial cystitis. 
 
--Red flag symptoms, such as unexplained weight loss, hematochezia, perimenopausal irregular bleeding, postmenopausal vaginal bleeding, or postcoital bleeding, should prompt an investigation to rule out malignancy or serious systemic disease.
+- Red flag symptoms, such as unexplained weight loss, hematochezia, perimenopausal irregular bleeding, postmenopausal vaginal bleeding, or postcoital bleeding, should prompt an investigation to rule out malignancy or serious systemic disease.
 
 
 --- &radio
